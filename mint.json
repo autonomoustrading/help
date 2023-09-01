@@ -21,7 +21,7 @@
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:help@mail.intuitivecode.ai"
     }
   ],
   "topbarCtaButton": {
@@ -75,7 +75,7 @@
     }
   ],
   "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
+    "twitter": "https://twitter.com/intuiitveAIcode",
     "github": "https://github.com/mintlify",
     "linkedin": "https://www.linkedin.com/company/mintsearch"
   }
