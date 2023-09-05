@@ -25,8 +25,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Sign up for free",
+    "url": "https://www.intuitivecode.ai/sign-up"
   },
   "tabs": [
     {
@@ -56,7 +56,7 @@
       "url": "https://autonomoustrading.io/blogs/blog"
     },
     {
-      "name": "Blog",
+      "name": " Autonomous AI Blog",
       "icon": "newspaper",
       "url": "https://blog.autonomoustrading.io"
     }
