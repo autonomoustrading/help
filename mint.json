@@ -46,10 +46,16 @@
       "url": "https://www.intuitivecode.ai"
     },
     {
-      "name": "Blog",
+      "name": "Insights",
       "icon": "newspaper",
       "url": "https://autonomoustrading.io/blogs/blog"
+    },
+    {
+      "name": "Blog",
+      "icon": "newspaper",
+      "url": "https://blog.autonomoustrading.io"
     }
+    
   ],
   "navigation": [
     {
