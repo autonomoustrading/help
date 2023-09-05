@@ -41,9 +41,14 @@
       "url": "https://help.intuitivecode.ai"
     },
     {
-      "name": "Site",
+      "name": "App",
       "icon": "slack",
       "url": "https://www.intuitivecode.ai"
+    },
+    {
+      "name": "Autonomous AI agents",
+      "icon": "slack",
+      "url": "https://autonomoustrading.io"
     },
     {
       "name": "Insights",
