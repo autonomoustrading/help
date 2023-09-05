@@ -42,12 +42,12 @@
     },
     {
       "name": "App",
-      "icon": "slack",
+      "icon": "cubes",
       "url": "https://www.intuitivecode.ai"
     },
     {
       "name": "Autonomous AI agents",
-      "icon": "ghost",
+      "icon": "code",
       "url": "https://autonomoustrading.io"
     },
     {
@@ -57,7 +57,7 @@
     },
     {
       "name": " Autonomous AI Blog",
-      "icon": "file-lines",
+      "icon": "cube",
       "url": "https://blog.autonomoustrading.io"
     }
     
