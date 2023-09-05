@@ -52,12 +52,12 @@
     },
     {
       "name": "Insights",
-      "icon": "newspaper",
+      "icon": "lightbulb",
       "url": "https://autonomoustrading.io/blogs/blog"
     },
     {
       "name": " Autonomous AI Blog",
-      "icon": "ghost",
+      "icon": "file-lines",
       "url": "https://blog.autonomoustrading.io"
     }
     
